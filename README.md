@@ -1,3 +1,0 @@
-# Lab Training
-
-Training repository.
